@@ -36,7 +36,7 @@ Before registering for a course, please review the information concerning Entry 
 
 - MPI: Message Passing Interface:
 
-      Beginners' content:
+  Beginners' content:
       -------------------
     - MPI Overview
     - MPI Process Model (8.7-8)
@@ -71,7 +71,26 @@ Before registering for a course, please review the information concerning Entry 
     - Process Creation and Management (10)
     - Other MPI Features (1-2, 12.1-3, 14-16, 2.6.1, 17.2, 8)
     - MPI Parameter Tuning
+
 - Shared memory parallelization with OpenMP
+
+  Beginners' content:
+  -----------------
+   - Overview and execution model (OpenMP 3.1 features)
+   - Work sharing directives (OpenMP 3.1 features)
+   - Data environment (OpenMP 3.1 features)
+
+  Intermediate content:
+  ---------------------
+  - Heat Example (practical/homework)
+  - Pitfalls
+
+ Community-targeted and domain-specific content
+ ----------------------------------------------
+ - OpenMP-4.0 and 4.5 Extensions (OpenMP 4.0 and 4.1 features, without GPU support)
+
+
+
 - Tools for parallel programming
 - Iterative solvers and parallelization
 - Visualization
