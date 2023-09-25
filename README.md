@@ -235,3 +235,13 @@ Agenda
   - HIP Exercises
   - Porting applications to HIP
   - Porting exercises
+
+
+Day 2 - Additional GPU Programming Languages
+------------------------------------------
+  - Introduction to OpenMP
+  - OpenMP® Exercises
+  - Advanced OpenMP® and Mixing HIP and OpenMP®
+  - Performance Portability Frameworks; Intro to Kokkos
+  - Kokkos Exercises
+ 
