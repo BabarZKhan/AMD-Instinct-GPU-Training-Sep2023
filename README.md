@@ -152,3 +152,18 @@ Visualization
      ----------------
      - Advanced themes
       
+
+
+
+
+--------------------------------------
+GPU programming
+---------------------------------------
+
+- Intermediate content
+   ---------------------
+  - Introductory, CUDA, OpenACC, OpenMP GPU directives
+
+- Advanced content
+  -----------------
+  - Programming of Clusters of GPUs
