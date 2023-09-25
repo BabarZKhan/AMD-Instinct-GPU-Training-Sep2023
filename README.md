@@ -201,7 +201,7 @@ Resources
        
 - ENCCS resourses
   ---------------
-    - Developing Applications with the AMD ROCm
+    - [Developing Applications with the AMD ROCm](https://enccs.github.io/amd-rocm-development/)
       
 - [LAB-NOTE](https://gpuopen.com/learn/amd-lab-notes/amd-lab-notes-readme/) series on [GPUOpen.com](https://gpuopen.com/):
   ------------------------------
