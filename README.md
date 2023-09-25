@@ -183,3 +183,36 @@ C++ programming language
   - Advanced C++: Look for the courses "Modern C++ Software Design (Advanced)"
   - C++ and HPC performance programming
   - C++14 shared memory programming
+
+
+
+
+
+
+
+
+------------
+Resources
+------------
+
+ - Book on HIP programming - Porting CUDA
+   ---------------------------------------
+     - Accelerated Computing with HIP,  Yifan Sun, Trinayan Baruah, David R Kaeli, ISBN-13 ‏ : ‎ 979-8218107444
+       
+- ENCCS resourses
+  ---------------
+    - Developing Applications with the AMD ROCm
+      
+- LAB-NOTE series on GPUOpen.com:
+  ------------------------------
+    - Finite difference method - Laplacian part 1
+    - Finite difference method - Laplacian part 2
+    - AMD matrix cores
+    - Introduction to profiling tools for AMD hardware
+    - AMD ROCm™ installation
+    - AMD Instinct™ MI200 GPU memory space overview 
+
+- Quick start guides at Oak Ridge National Laboratory
+  ---------------------------------------------------
+  - Crusher quick-start guide
+  - Frontier user guide
