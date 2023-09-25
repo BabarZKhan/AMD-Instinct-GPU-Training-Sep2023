@@ -223,25 +223,26 @@ Resources
 Agenda
 ----------------
 
-  Day 1:
-  ------
+  - Day 1:
+    ------
 
-  - HLRS Intro
-  - AMD Presentation Roadmap
-  - Introduction to the System for Exercises
-  - Introduction to the AMD Architecture, including FPGA
-  - Overview of ROCm and Compilers, Infinity Hub/HPC Community
-  - Introduction to HIP
-  - HIP Exercises
-  - Porting applications to HIP
-  - Porting exercises
+     - HLRS Intro
+     - AMD Presentation Roadmap
+     - Introduction to the System for Exercises
+     - Introduction to the AMD Architecture, including FPGA
+     - Overview of ROCm and Compilers, Infinity Hub/HPC Community
+     - Introduction to HIP
+     - HIP Exercises
+     - Porting applications to HIP
+     - Porting exercises
 
 
-Day 2 - Additional GPU Programming Languages
-------------------------------------------
-  - Introduction to OpenMP
-  - OpenMP® Exercises
-  - Advanced OpenMP® and Mixing HIP and OpenMP®
-  - Performance Portability Frameworks; Intro to Kokkos
-  - Kokkos Exercises
+ - Day 2 - Additional GPU Programming Languages:
+   --------------------------------------------
+   
+    - Introduction to OpenMP
+    - OpenMP® Exercises
+    - Advanced OpenMP® and Mixing HIP and OpenMP®
+    - Performance Portability Frameworks; Intro to Kokkos
+    - Kokkos Exercises
  
