@@ -226,12 +226,12 @@ Agenda
   Day 1:
   ------
 
- - HLRS Intro
- - AMD Presentation Roadmap
- - Introduction to the System for Exercises
- - Introduction to the AMD Architecture, including FPGA
- - Overview of ROCm and Compilers, Infinity Hub/HPC Community
- - Introduction to HIP
- - HIP Exercises
- - Porting applications to HIP
- - Porting exercises
+  - HLRS Intro
+  - AMD Presentation Roadmap
+  - Introduction to the System for Exercises
+  - Introduction to the AMD Architecture, including FPGA
+  - Overview of ROCm and Compilers, Infinity Hub/HPC Community
+  - Introduction to HIP
+  - HIP Exercises
+  - Porting applications to HIP
+  - Porting exercises
