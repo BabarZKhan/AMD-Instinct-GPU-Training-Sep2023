@@ -246,3 +246,15 @@ Agenda
     - Performance Portability Frameworks; Intro to Kokkos
     - Kokkos Exercises
  
+
+- Day 3 - AMD Performance Considerations and Debugging
+  ----------------------------------------------------
+
+   - AMD Communication Fabrics and GPU-Aware MPI
+   - GPU-Aware Exercises
+   - AMD Node Memory Model
+   - Memory Model Exercises
+   - Affinity - Placement, Ordering and Binding
+   - Affinity Exercises
+   - Debuggers - rocgdb
+   - Rocgdb exercises
