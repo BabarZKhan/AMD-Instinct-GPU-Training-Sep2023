@@ -203,7 +203,7 @@ Resources
   ---------------
     - Developing Applications with the AMD ROCm
       
-- LAB-NOTE series on GPUOpen.com:
+- [LAB-NOTE](https://gpuopen.com/learn/amd-lab-notes/amd-lab-notes-readme/) series on [GPUOpen.com](https://gpuopen.com/):
   ------------------------------
     - Finite difference method - Laplacian part 1
     - Finite difference method - Laplacian part 2
