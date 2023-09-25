@@ -106,14 +106,24 @@ Shared memory parallelization with OpenMP:
 
 
 
-- Tools for parallel programming
-- Iterative solvers and parallelization
-- Visualization
-- GPU programming
-- Data analysis and statistics
-- C++ programming language
-- Fortran programming language
-- Python programming language
-- Other community-targeted topics / domain-specific courses
 
+Iterative solvers and parallelization
+--------------------------------------
 
+- Parallelization of Explicit and Implicit Solvers
+- Numerical and parallel libraries
+
+   - Advanced Content:
+     ----------------
+     Parallel Programming Models on Hybrid Systems / MPI + OpenMP
+
+  -  Community-targeted and domain-specific content
+     ----------------------------------------------
+     
+      - Particle-based domain decomposition
+      - PETSc, An Introduction
+      - Laplace-Example with MPI and PETSc: Introduction
+      - Laplace-Example with MPI and PETSc: Writing a parallel MPI program with a CG solver
+      - Laplace-Example with MPI and PETSc: Laplace-Example with PETSc
+      - Iterative Linear Solvers
+      
