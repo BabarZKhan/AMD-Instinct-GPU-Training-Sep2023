@@ -223,8 +223,8 @@ Resources
 Agenda
 ----------------
 
-  - Day 1:
-    ------
+ - Day 1:
+   ------
 
      - HLRS Intro
      - AMD Presentation Roadmap
