@@ -34,7 +34,7 @@ Before registering for a course, please review the information concerning Entry 
 
 
 
-
+-------------------------------
 MPI: Message Passing Interface:
 -------------------------------
 
@@ -91,6 +91,10 @@ MPI: Message Passing Interface:
     - MPI Parameter Tuning
 
 
+
+
+
+-------------------------------------------
 Shared memory parallelization with OpenMP:
 -------------------------------------------
    - Overview and execution model (OpenMP 3.1 features)
@@ -108,7 +112,7 @@ Shared memory parallelization with OpenMP:
 
 
 
-
+-------------------------------------
 Iterative solvers and parallelization
 --------------------------------------
 
