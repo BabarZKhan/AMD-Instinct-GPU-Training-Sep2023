@@ -258,3 +258,16 @@ Agenda
    - Affinity Exercises
    - Debuggers - rocgdb
    - Rocgdb exercises
+
+
+Day 4 - AMD Profilers and Machine Learning
+-----------------------------------------
+
+  - Introduction to rocprof
+  - Rocprof Exercises
+  - Introduction to Omnitrace
+  - Omnitrace Exercises
+  - Introduction to Omniperf
+  - Omniperf Exercises
+  - Machine Learning in HPC; Introduction to ML on AMD
+  - Examples of Machine Learning projects
