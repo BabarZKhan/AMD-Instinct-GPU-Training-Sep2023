@@ -167,3 +167,19 @@ GPU programming
 - Advanced content
   -----------------
   - Programming of Clusters of GPUs
+ 
+
+------------------------
+C++ programming language
+------------------------
+- Introduction
+
+  Intermediate content:
+  ---------------------
+  - Intermediate C++: Look for the courses "Modern C++ Software Design (Intermediate)"
+
+  Advanced content:
+  ----------------
+  - Advanced C++: Look for the courses "Modern C++ Software Design (Advanced)"
+  - C++ and HPC performance programming
+  - C++14 shared memory programming
