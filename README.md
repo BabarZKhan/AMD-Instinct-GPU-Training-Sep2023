@@ -132,4 +132,23 @@ Iterative solvers and parallelization
       - Laplace-Example with MPI and PETSc: Writing a parallel MPI program with a CG solver
       - Laplace-Example with MPI and PETSc: Laplace-Example with PETSc
       - Iterative Linear Solvers
+
+
+
+
+--------------------------------------
+Visualization
+--------------------------------------
+ - Introduction to concepts of visualization
+ - Introduction to the use of graphic tools
+
+   - Intermediate content
+     --------------------
+     - Extension of graphic tools with own programming steps
+     - Coupling of simulations with real-time visualization
+     - Visualization of parallel applications
+
+   - Advanced content
+     ----------------
+     - Advanced themes
       
