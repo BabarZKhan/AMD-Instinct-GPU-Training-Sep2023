@@ -35,17 +35,32 @@ Before registering for a course, please review the information concerning Entry 
 
 
 - MPI: Message Passing Interface:
-
-  Beginners' content:
-      -------------------
     - MPI Overview
     - MPI Process Model (8.7-8)
     - Point-to-Point Communication (3.1-6, 8.6)
     - Non-Blocking Communication (3.7+10)
     - Collective Communication (5.1-11+13)
     - Error Handling (8.3-5)
-  
-      Intermediate content:
+
+      MPII Intermediate content:
+      --------------------
+    - Groups and communicators, Environment Management, MPI_Comm_split, intra- & inter-communicators (6.1-5)
+    - Virtual Topologies (7.1-5, 3.11)
+    - One-sided Communication (11, 8.2)
+    - Derived Datatypes (4.1.1-5+9)
+    - Parallel File I/O (basics) (13)
+    - Parallel File I/O (fileviews) (13.3)
+    - Parallel File I/O (access methods) (13)
+    - Best Practice
+    - The new Fortran module mpi_f08 (17.1)
+    - Collective Communication, advanced topics, Nonblocking Collectives (5.12), MPI_IN_PLACE (5.2.1)
+    - Re-numbering on a cluster, Collective communication on inter-communicators (6.6), Info object (9), Attribute caching & naming (6.7-8), Implementation 
+      information (8.1)
+    - Neighborhood Communication (7.6-7) and MPI_BOTTOM (4.1.5)
+    - Shared Memory One-sided Communication (11.2.3)
+    - Shared Memory synchronization rules (11.4-5)
+
+      MPI Intermediate content:
       --------------------
     - Groups and communicators, Environment Management, MPI_Comm_split, intra- & inter-communicators (6.1-5)
     - Virtual Topologies (7.1-5, 3.11)
@@ -71,6 +86,7 @@ Before registering for a course, please review the information concerning Entry 
     - Process Creation and Management (10)
     - Other MPI Features (1-2, 12.1-3, 14-16, 2.6.1, 17.2, 8)
     - MPI Parameter Tuning
+
 
 - Shared memory parallelization with OpenMP
 
