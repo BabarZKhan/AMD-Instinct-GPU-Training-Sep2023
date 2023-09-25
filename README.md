@@ -34,15 +34,19 @@ Before registering for a course, please review the information concerning Entry 
 
 
 
-- MPI: Message Passing Interface
-    - Beginners' content
+- MPI: Message Passing Interface:
+
+      Beginners' content:
+      -------------------
     - MPI Overview
     - MPI Process Model (8.7-8)
     - Point-to-Point Communication (3.1-6, 8.6)
     - Non-Blocking Communication (3.7+10)
     - Collective Communication (5.1-11+13)
     - Error Handling (8.3-5)
-    - Intermediate content
+  
+      Intermediate content:
+      --------------------
     - Groups and communicators, Environment Management, MPI_Comm_split, intra- & inter-communicators (6.1-5)
     - Virtual Topologies (7.1-5, 3.11)
     - One-sided Communication (11, 8.2)
@@ -58,7 +62,9 @@ Before registering for a course, please review the information concerning Entry 
     - Neighborhood Communication (7.6-7) and MPI_BOTTOM (4.1.5)
     - Shared Memory One-sided Communication (11.2.3)
     - Shared Memory synchronization rules (11.4-5)
-    - Community-targeted and domain-specific content
+  
+      Community-targeted and domain-specific content
+      ----------------------------------------------
     - Derived Datatypes and Resizing (4.1.7-12, 4.2-3)
     - MPI and Threads (12.4)
     - Probe, Cancel, Persistent Requests (3.8-9)
