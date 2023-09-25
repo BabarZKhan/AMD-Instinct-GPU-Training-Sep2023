@@ -97,14 +97,14 @@ Shared memory parallelization with OpenMP:
    - Work sharing directives (OpenMP 3.1 features)
    - Data environment (OpenMP 3.1 features)
 
-  Intermediate content:
-  ---------------------
-  - Heat Example (practical/homework)
-  - Pitfalls
+     Intermediate content:
+     ---------------------
+     - Heat Example (practical/homework)
+     - Pitfalls
 
-  Community-targeted and domain-specific content
-  ----------------------------------------------
-  - OpenMP-4.0 and 4.5 Extensions (OpenMP 4.0 and 4.1 features, without GPU support)
+     Community-targeted and domain-specific content
+     ----------------------------------------------
+     - OpenMP-4.0 and 4.5 Extensions (OpenMP 4.0 and 4.1 features, without GPU support)
 
 
 
