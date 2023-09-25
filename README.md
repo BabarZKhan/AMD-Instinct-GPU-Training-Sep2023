@@ -88,10 +88,9 @@ Before registering for a course, please review the information concerning Entry 
     - MPI Parameter Tuning
 
 
-- Shared memory parallelization with OpenMP
+Shared memory parallelization with OpenMP:
+-------------------------------------------
 
-  Beginners' content:
-  -----------------
    - Overview and execution model (OpenMP 3.1 features)
    - Work sharing directives (OpenMP 3.1 features)
    - Data environment (OpenMP 3.1 features)
