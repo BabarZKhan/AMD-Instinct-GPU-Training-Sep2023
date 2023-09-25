@@ -102,8 +102,8 @@ Shared memory parallelization with OpenMP:
   - Heat Example (practical/homework)
   - Pitfalls
 
-   Community-targeted and domain-specific content
-   ----------------------------------------------
+  Community-targeted and domain-specific content
+  ----------------------------------------------
   - OpenMP-4.0 and 4.5 Extensions (OpenMP 4.0 and 4.1 features, without GPU support)
 
 
