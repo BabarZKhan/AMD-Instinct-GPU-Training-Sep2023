@@ -12,3 +12,36 @@ After this course, participants will
 - have gained knowledge about the AMD programming tools
 - have gotten an introduction to the AMD Machine learning software
 - know about profiling and debugging.
+
+
+# Prerequisites and content levels
+
+Prerequisites
+Some knowledge in GPU and/or HPC programming. Participants should have an application developer's general knowledge of computer hardware, operating systems, and at least one HPC programming language.
+
+See also the suggested prereading below (resources and public videos).
+
+
+
+
+
+
+
+Course Curricula and Content Levels
+------------------------------------
+
+Before registering for a course, please review the information concerning Entry Level and Content Level that is indicated on the course information page. This will assist you in selecting a training activity that is appropriate for your knowledge level and professional needs.
+
+
+
+- MPI: Message Passing Interface
+- Shared memory parallelization with OpenMP
+- Tools for parallel programming
+- Iterative solvers and parallelization
+- Visualization
+- GPU programming
+- Data analysis and statistics
+- C++ programming language
+- Fortran programming language
+- Python programming language
+- Other community-targeted topics / domain-specific courses
